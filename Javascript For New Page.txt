@@ -1,0 +1,543 @@
+/* CUSTOM CODE */
+//Avoid multiple setIntervals getting started.
+if (window.vwoInterval1729583887348) {
+	clearInterval(window.vwoInterval1729583887348);
+}
+window.vwoInterval1729583887348 = setInterval(function() {
+	if (vwo_$('.copyright').length) {
+	/* CUSTOM CODE */
+$(window).on('popstate', function(event) {
+    location.reload();
+});
+if($(window).width() > 1200){
+ 
+var Html = '' + 
+'<div class="new-pdp-Data">' + 
+'    <div class="top-pdp-section">' + 
+'<div class="container">'+
+'        <div class="top-left-name">' + 
+'            <div class="top-left1">' + 
+'                <h3>Custom Chair Cover - Design 1</h3>' + 
+'            </div>' + 
+'            <div class="top-left2">' + 
+'                <span class="new-price">$6.22</span>' + 
+'                <span class="old-price">$15.37</span>' + 
+'            </div>' + 
+'' + 
+'        </div>' + 
+'        <div class="top-right-sec">' + 
+'            <div class="top-right-qty">' + 
+'                <input type="button" value="-" class="qty-changes-data" id="action-minus-cus" >' + 
+'                <input type="number" name="qtys" id="qtys" value="1" maxlength="12" title="Quantitys">' + 
+'                <input type="button" value="+" class="qty-changes-data" id="action-plus-cus" >' + 
+'            </div>' + 
+'            <div class="top-customize-now">' + 
+'                <a href="javascript:void(0);">Customize now</a>' + 
+'            </div>' + 
+'        </div>' + 
+'        </div>' + 
+'    </div>' + 
+'    <div class="main-newpdp-sec">' + 
+'<div class="container">'+
+'        <div class="new-pdp-gallery">' + 
+'' + 
+'        </div>' + 
+'        <div class="new-pdp-detail-sec">' + 
+'            <div class="new-pdp-rating">' + 
+'            </div>' + 
+'            <div class="new-pdp-pname">' + 
+'                <h4>Custom Chair Cover - Design 1</h4>' + 
+'            </div>' + 
+'            <div class="new-pdp-uvdata">' + 
+'                <ul>' + 
+'                    <li><span><img src="//useruploads.vwo.io/useruploads/541316/images/769146d60a0c97bd844b6e72eedde1b0_group5969.svg"></span>UV-resistant</li>' + 
+'                    <li><span><img src="//useruploads.vwo.io/useruploads/541316/images/7433b9475745a21bfd41f6d5cff3846c_group59691.svg"></span>Waterproof</li>' + 
+'                    <li><span><img src="//useruploads.vwo.io/useruploads/541316/images/d2ecf11d2a4e1f470ba3450dc9401917_group5969.png"></span>Sustainable</li>' + 
+'                </ul>' + 
+'            </div>' + 
+'            <div class="product-price">' + 
+'                <span class="new-price">$6.22</span>' + 
+'                <span class="old-price">$15.37</span>' + 
+'            </div>' + 
+'            <div class="newpdp-offer">' + 
+'                <h4><span><img src="//useruploads.vwo.io/useruploads/541316/images/edf278d2bbea59cef9ef09a3352fb4f9_group59692.svg"></span>Offers & Discounts</h4>' + 
+'                <ul>' + 
+'                    <li>' + 
+'                        <b style="display: none">Applied</b>' + 
+'                        <p><span>Save up to 60%</span>Enjoy a discount and free shipping on every order with the the coupon code.</p>' + 
+'                        <div class="bottom-offer">' + 
+'                            <span class="offer-code">Code : <b>COVOFFERPDP</b></span>' + 
+'                            <span class="offer-apply">Apply now</span>' + 
+'                            <span class="offer-remove" style="display: none">Remove</span>' + 
+'                        </div>' + 
+'                        <p class="offer-apply-text" style="display: none">Applied coupon will reflect on cart</p>' + 
+'                    </li>' + 
+'                </ul>' + 
+'            </div>' + 
+'            <div class="new-pdp-custo">' + 
+'                <div class="newpdp-qty">' + 
+'                    <div class="pdp-qty">' + 
+'                <input type="button" value="-" class="qty-changes-data" id="action-minus-cus" >' + 
+'                <input type="number" name="qtys" id="qtys" value="1" maxlength="12" title="Quantitys">' + 
+'                <input type="button" value="+" class="qty-changes-data" id="action-plus-cus" >' + 
+'                    </div>' + 
+'                    <div class="qty-discount-table">' + 
+'                        <h4>Bulk Quantity Discount</h4>' + 
+'                        <div class="table-qty">' + 
+'                            <div class="tr-qty"><span class="th-qty">Qty</span> <span class="th-qty">Price</span></div>' + 
+'                            <div class="tr-qty"> <span>2-5</span> <span class="discount_price_2_5">$5.91</span></div>' + 
+'                            <div class="tr-qty"> <span>6-24</span> <span class="discount_price_6_24">$5.60</span></div>' + 
+'                            <div class="tr-qty"> <span>25-99</span> <span class="discount_price_25_99">$5.29</span></div>' + 
+'                            <div class="tr-qty"> <span>100+</span> <span class="discount_price_100_0">$4.98</span></div>' + 
+'                        </div>' + 
+'                    </div>' + 
+'                </div>' + 
+'                <div class="newpdp-cust">' + 
+'                    <a href="javascript:void(0);">Customize now</a>' + 
+'                </div>' + 
+'            </div>' + 
+'            <div class="newpdp-des">' + 
+// '                <h4>Insure your Outdoors with Our Premium Custom Covers</h4>' + 
+// '                <ul>' + 
+// '                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Crafted from Cover Max, Cover Fab &amp; Cover Tuff fabric options. </span></li>' + 
+// '                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Features waterproof, UV-resistant &amp; tear &amp; abrasion-resistant material. </span></li>' + 
+// '                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Available with grommets &amp; multiple tie-down options for enhanced security &amp; installation.</span></li>' + 
+// '                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Get custom covers custom-made as per your requirements.</span></li>' + 
+// '                    <li>Available with additional accessory – air bags for foolproof water protection.</li>' + 
+// '                </ul>' + 
+'            </div>' + 
+'        </div>' + 
+'    </div>' + 
+'    </div>' + 
+'</div>' + 
+'' + 
+'';
+var PopHtml = '' + 
+'<div class="newpdp-popup">' + 
+'    <div class="container">' + 
+'        <div class="inner-newpdp-popup">' + 
+'            <div class="main-newpdp-popup-left">' + 
+'                <div class="newpdp-popup-header">' + 
+'                    <span class="pop-back"><img src="//useruploads.vwo.io/useruploads/541316/images/56ef2b744215379c8b2ccfb5206eb3bf_back.svg"></span><span><img src="https://cdn.coversandall.com/media/logo/stores/1/Coversandall_Logo.png"></span>' + 
+'                </div>' + 
+'                <div class="newpdp-popup-gallery">' + 
+'' + 
+'                </div>' + 
+'                <div class="main-bottom-sec">' + 
+'                    <div class="newpdp-popup-left-bottom">' + 
+'                        <h4>Custom Covers</h4>' + 
+'                        <div class="newpdp-popup-left-price">' + 
+'                            <span class="new-price">$6.22</span>' + 
+'                            <span class="old-price">$8.09</span>' + 
+'                        </div>' + 
+'                    </div>' + 
+'                    <div class="newpdp-popup-right-bottom">' + 
+'                        <div class="cart-insurance">' + 
+'                            <div class="insurance-design">' + 
+'                                <div class="inner-insurance-design">' + 
+'                                    <div class="insurance-design-two">' + 
+'                                        <p>Choose a cover plan:</p>' + 
+'                                        <ul>' + 
+'                                            <li><input type="radio" name="1-year-ins" id="1-year-ins"><label for="1-year-ins">1-year plan (one claim) - <span>$12.99</span></label></li>' + 
+'                                            <li><input type="radio" name="3-year-ins" id="3-year-ins"><label for="3-year-ins">3-year plan (two claims) - <span> $19.99</span></label></li>' + 
+'                                        </ul>' + 
+'                                    </div>' + 
+'                                    <div class="insurance-design-one">' + 
+'                                        <div class="bt-add">' + 
+'                                            <h4>' + 
+'                                                <b><img src="//useruploads.vwo.io/useruploads/541316/images/3222a578a3d9c9bf15b9610920ab16c7_group324.svg" class="ins-img "></b><span class="hed-text">Add CoverSure<br />from <b class="price-ins">$12.99</b></span>' + 
+'                                                <span class="add-ins">Add</span>' + 
+'                                            </h4>' + 
+'                                            <p><a href="javascript:void(0)">Learn more</a></p>' + 
+'                                        </div>' + 
+'                                        <div class="bt-remove" style="display: none">' + 
+'                                            <h4>' + 
+'                                                <b><img src="//useruploads.vwo.io/useruploads/541316/images/3222a578a3d9c9bf15b9610920ab16c7_group324.svg" class="ins-img "></b><span class="hed-text">Add CoverSure<br />from <b class="price-ins">$12.99</b></span>' + 
+'                                                <span class="add-ins">Remove</span>' + 
+'                                                <p><a href="javascript:void(0)">Learn more</a></p>' + 
+'                                            </h4>' + 
+'                                        </div>' + 
+'                                    </div>' + 
+'' + 
+'                                </div>' + 
+'                            </div>' + 
+'                        </div>' + 
+'                        <div class="newpd-popup-qty">' + 
+'                            <div class="pdp-qty ">' + 
+'                                <input type="button" value="-" class="qty-changes-data" id="action-minus-cus">' + 
+'                                <input type="number" name="qtys" id="qtys" value="1" maxlength="12" title="Quantitys">' + 
+'                                <input type="button" value="+" class="qty-changes-data " id="action-plus-cus">' + 
+'                            </div>' + 
+'                        </div>' + 
+'                    </div>' + 
+'                </div>' + 
+'            </div>' + 
+// '<form data-product-sku="" action="" method="post" enctype="multipart/form-data" id="product_addtocart_form" data-mage-init="{"validation":{}}" novalidate="true" data-validator-ready="true" data-gtm-form-interact-id="0">'+  
+'            <div class="main-newpdp-popup-right">' +    
+'                <div class="section1-pop common-sec" id="measurements-data" style="display: block">' +
+'<div class="bar-sec"><span>1</span>/6</div>' +   
+'                    <h5>Measurements <span>All Dimensions in Inches</span></h5>' + 
+'                    <div class="measurements-input measurement-component" id="measurement-component">' + 
+'' + 
+'                    </div>' + 
+'                    <div class="measurements-popup-bottom">' + 
+'' + 
+'                    </div>' + 
+'                    <div class="main-newpdp-popup-footer">' + 
+//'                        <a href="javascript:void(0)" class="f-previous">Previous</a>' + 
+'                        <a href="javascript:void(0)" class="f-next">Next</a>' + 
+'                    </div>' + 
+'                </div>' + 
+'                <div class="section2-pop common-sec" id="select-fabric_popup" style="display: none">' + 
+'<div class="bar-sec"><span>2</span>/6</div>' +      
+'                    <h5>Select Fabric</h5>' + 
+'                    <div class="product-info-main select-fabric_bottom">' + 
+'                       <div class="personalize-component"></div>'+
+'                    </div>' + 
+'                    <div class="main-newpdp-popup-footer">' + 
+'                        <a href="javascript:void(0)" class="f-previous">Previous</a>' + 
+'                        <a href="javascript:void(0)" class="f-next">Next</a>' + 
+'                    </div>' + 
+'                </div>' + 
+'                <div class="section3 common-sec" id="Personalize_logo" style="display: none">' + 
+'<div class="bar-sec"><span>3</span>/6</div>' +      
+'                    <h5>Personalize <span>(Optional)</span></h5>' + 
+'                    <div class="product-info-main inner-Personalize_logo">' + 
+'                       <div class="personalize-component"></div>'+
+'                    </div>' + 
+'                    <div class="main-newpdp-popup-footer">' + 
+'                        <a href="javascript:void(0)" class="f-previous">Previous</a>' + 
+'                        <a href="javascript:void(0)" class="f-next">Next</a>' + 
+'                    </div>' + 
+'                </div>' + 
+'                <div class="section4 common-sec" id="tieDown_sec" style="display: none">' + 
+'<div class="bar-sec"><span>4</span>/6</div>' +      
+'                    <h5>Tie Downs</h5>' + 
+'                    <div class="product-info-main inner-tieDown_sec">' + 
+'                       <div class="personalize-component"></div>'+
+'                    </div>' + 
+'                    <div class="main-newpdp-popup-footer">' + 
+'                        <a href="javascript:void(0)" class="f-previous">Previous</a>' + 
+'                        <a href="javascript:void(0)" class="f-next">Next</a>' + 
+'                    </div>' + 
+'                </div>' + 
+'                <div class="section4 common-sec" id="Grommets_sec" style="display: none">' + 
+'<div class="bar-sec"><span>5</span>/6</div>' +      
+'                    <h5>Grommets</h5>' + 
+'                    <div class="product-info-main inner-Grommets_sec">' + 
+'                       <div class="personalize-component"></div>'+
+'                    </div>' + 
+'                    <div class="main-newpdp-popup-footer">' + 
+'                        <a href="javascript:void(0)" class="f-previous">Previous</a>' + 
+'                        <a href="javascript:void(0)" class="f-next">Next</a>' + 
+'                    </div>' + 
+'                </div>' + 
+'                <div class="section4 common-sec" id="Upload_sec" style="display: none">' + 
+'<div class="bar-sec"><span>6</span>/6</div>' +      
+'                    <h5>Accessories<span>(Optional)</span></h5>' + 
+'                    <div class="product-info-main inner-Upload_sec">' + 
+'                       <div class="personalize-component"></div>'+ 
+'                    </div>' + 
+'                    <div class="main-newpdp-popup-footer">' + 
+'                        <a href="javascript:void(0)" class="f-previous">Previous</a>' + 
+'                        <div class="custom_addcart"></div>' + 
+'                    </div>' + 
+'                </div>' +   
+'            </div>' +
+ //   '</form>'+      
+'        </div>' + 
+'    </div>' + 
+'</div>' + 
+'' + 
+';' + 
+'' + 
+'';
+$(Html).insertBefore('.product-info-media-main.container');
+$('#product_addtocart_form').append(PopHtml)
+setTimeout(function(){
+    $('.product.media').appendTo('.new-pdp-gallery');
+    $('ul.product-title-links').appendTo('.new-pdp-rating');
+     $('.product-info-main .page-title-wrapper .bullet-point').appendTo('.newpdp-des')
+    var ProductName= $('.product-info-main .page-title-wrapper h1.page-title span').text();
+    var FinalPrices = $('[data-price-type="finalPrice"] span').text()
+    //var OldPrices = $('.sly-old-price [data-price-type="oldPrice"] span').text();
+    var OldPrices = $('.sly-old-price span.price').text()
+    var QtyValue = $('.product-info-main .product-info-cart .box-tocart .fieldset .qty .control .input-text.qty').val();
+    var CouponCode = $('.pdp-discount .text span.top p').text()
+    var Coupontext = $('.coupon-code-container.pdp-discount span.bottom span.offer-container').text();
+    $('.new-pdp-pname h4, .top-left-name h3, .newpdp-popup-left-bottom h4').text(ProductName)
+    $('.top-left2 span.new-price, .product-price span.new-price').text(FinalPrices);
+    $('.top-left2 span.old-price, .product-price span.old-price').text(OldPrices);
+    $('.pdp-qty input#qtys, .top-right-qty input#qtys').val(QtyValue);
+    $('.newpdp-offer ul li>p span').text(Coupontext);
+    $('.bottom-offer span b').text(CouponCode);
+    console.log(OldPrices,'OldPrices')
+   
+    
+
+    
+    $('.product-info-main .measurement-component .product_dimentions ul.measurement-product').appendTo('.measurements-input');
+    $('.measurement-bottom').appendTo('.measurements-popup-bottom');
+    $('.product-info-main #swatch-custom-options').appendTo('.select-fabric_bottom .personalize-component');
+    $('[option_code="grommet"]').appendTo('.inner-Grommets_sec .personalize-component')
+    $('.refimage-selection').appendTo('.inner-Upload_sec .personalize-component')
+     $('.comments-selection.mrgt0').appendTo('.inner-Upload_sec .personalize-component')
+      $('.accessories-selection').appendTo('.inner-Upload_sec .personalize-component')
+      
+
+}, 1500);
+setInterval(function(){
+         var FinalPrices = $('[data-price-type="finalPrice"] span').text()
+    var OldPrices = $('[data-price-type="oldPrice"] span').text();
+    //var QtyValue = $('.product-info-main .product-info-cart .box-tocart .fieldset .qty .control .input-text.qty').val();
+    $('.top-left2 span.new-price, .product-price span.new-price, .newpdp-popup-left-price span.new-price').text(FinalPrices);
+    $('.top-left2 span.old-price, .product-price span.old-price, .newpdp-popup-left-price span.old-price').text(OldPrices);
+},500)
+$(document).on('click','#action-plus-cus',function(){
+    console.log('click plus');
+    $('.product-info-main .product-info-cart .box-tocart .fieldset .qty .control .action-plus').click()
+setTimeout(function(){
+     var FinalPrices = $('[data-price-type="finalPrice"] span').text()
+    var OldPrices = $('[data-price-type="oldPrice"] span').text();
+    var QtyValue = $('.product-info-main .product-info-cart .box-tocart .fieldset .qty .control .input-text.qty').val();
+  $('.top-left2 span.new-price, .product-price span.new-price, .newpdp-popup-left-price span.new-price').text(FinalPrices);
+    $('.top-left2 span.old-price, .product-price span.old-price, .newpdp-popup-left-price span.old-price').text(OldPrices);
+    $('.pdp-qty input#qtys, .top-right-qty input#qtys').val(QtyValue);
+    }, 500)
+})
+$(document).on('click','#action-minus-cus', function(){
+    console.log('click minus');
+     $('.product-info-main .product-info-cart .box-tocart .fieldset .qty .control .action-minus').click()
+setTimeout(function(){
+     var FinalPrices = $('[data-price-type="finalPrice"] span').text()
+    var OldPrices = $('[data-price-type="oldPrice"] span').text();
+    var QtyValue = $('.product-info-main .product-info-cart .box-tocart .fieldset .qty .control .input-text.qty').val();
+    $('.top-left2 span.new-price, .product-price span.new-price, .newpdp-popup-left-price span.new-price').text(FinalPrices);
+    $('.top-left2 span.old-price, .product-price span.old-price, .newpdp-popup-left-price span.old-price').text(OldPrices);
+    $('.pdp-qty input#qtys, .top-right-qty input#qtys').val(QtyValue);
+    }, 500)
+});
+$(document).on('keyup','.measurements-input input', function(){
+    console.log('click minus');
+     $('.product-info-main .product-info-cart .box-tocart .fieldset .qty .control .action-minus').click()
+setTimeout(function(){
+     var FinalPrices = $('[data-price-type="finalPrice"] span').text()
+    var OldPrices = $('[data-price-type="oldPrice"] span').text();
+    var QtyValue = $('.product-info-main .product-info-cart .box-tocart .fieldset .qty .control .input-text.qty').val();
+    $('.top-left2 span.new-price, .product-price span.new-price, .newpdp-popup-left-price span.new-price').text(FinalPrices);
+    $('.top-left2 span.old-price, .product-price span.old-price, .newpdp-popup-left-price span.old-price').text(OldPrices);
+    $('.pdp-qty input#qtys, .top-right-qty input#qtys').val(QtyValue);
+    }, 500)
+});
+$(document).on('blur','.measurements-input input', function(){
+    console.log('click minus');
+     $('.product-info-main .product-info-cart .box-tocart .fieldset .qty .control .action-minus').click()
+setTimeout(function(){
+     var FinalPrices = $('[data-price-type="finalPrice"] span').text()
+    var OldPrices = $('[data-price-type="oldPrice"] span').text();
+    var QtyValue = $('.product-info-main .product-info-cart .box-tocart .fieldset .qty .control .input-text.qty').val();
+    $('.top-left2 span.new-price, .product-price span.new-price, .newpdp-popup-left-price span.new-price').text(FinalPrices);
+    $('.top-left2 span.old-price, .product-price span.old-price, .newpdp-popup-left-price span.old-price').text(OldPrices);
+    $('.pdp-qty input#qtys, .top-right-qty input#qtys').val(QtyValue);
+    }, 500)
+});
+$('.bottom-offer span.offer-apply').on('click', function(){
+    $('.pdp-discount span.bottom a.apply').click();
+    $('.offer-apply-text').show();
+    $('.bottom-offer .offer-remove').show()
+    $(this).hide();
+    $('.newpdp-offer ul li>b').show()
+})
+$('.bottom-offer .offer-remove').on('click', function(){
+    $('.pdp-discount span.bottom a.remove').click();
+    $('.offer-apply-text').hide();
+    $('.bottom-offer span.offer-apply').show()
+    $('.newpdp-offer ul li>b').hide();
+    $(this).hide();
+
+})
+setTimeout(function(){
+    var OffsetTop = $('.newpdp-des .bullet-point ul li').offset().top;
+    console.log(OffsetTop)
+    $(window).on('scroll', function(){
+
+    if ($(window).scrollTop() >= OffsetTop + 100) {
+            $('.top-pdp-section').addClass('sticky')
+        } else {
+            $('.top-pdp-section').removeClass('sticky')
+        }
+    })
+},1600)
+
+var WindowWidth = $(window).innerWidth()
+var WindowHeight = $(window).innerHeight()
+$('.main-newpdp-popup-left').height(WindowHeight);
+$('.main-newpdp-popup-right').height(WindowHeight);
+setTimeout(function(){
+    var InputArray = []
+
+    $('.insurance-design-one .price-ins, .insurance-design-two .price-ins').text('$'+ InputArray[0]);
+    $('.insurance-design-two ul li:first-child label span, ul.Choose-plan li:first-child span:last-child').text('$'+ InputArray[0]);
+     //$('.insurance-design-two ul li:last-child label span,  ul.Choose-plan li:last-child span:last-child').text('$'+ InputArray[1]);
+    console.log(InputArray)     
+
+    $(document).on('click', '.bt-add span.add-ins',function(){
+       $('.bt-remove').show();
+        $('.bt-add').hide();
+        $('.insurance-design-two').show()
+       $('.insurance-design-two ul li input').prop('checked',false);
+       $('.insurance-design-two ul li:first-child input').click();
+       //$('.insurance-design-one .price-ins, .insurance-design-two .price-ins').text('$'+ InputArray[0]);
+       var Customwarranty_id = $('.product-warranty-year:nth-child(1) .select-warranty-year').attr('value')
+       var Customwarranty_price = $('.product-warranty-year:nth-child(1) .select-warranty-year').attr('data-price')
+       var Customwarranty_title = $('.product-warranty-year:nth-child(1) .select-warranty-year').attr('data-label');
+        $('#selected_warranty_id').val(Customwarranty_id)
+        $('#selected_warranty_price').val(Customwarranty_price)
+        $('#selected_warranty_title').val(Customwarranty_title)
+        //$('#selected_warranty_final_price').val(Customwarranty_price);
+        //localStorage.setItem("Insurance_price",Customwarranty_price);
+
+    });
+
+     $('.insurance-design-two ul li input').on('click', function(){
+       $('.insurance-design-two ul li input').prop('checked',false);
+       $(this).prop('checked',true);
+       if($(this).is(':checked')){
+        var CheckInputValueText = $(this).parents('li').find('span').text();
+        //console.log(CheckInputValue)
+        $(' .price-ins').text(CheckInputValueText);
+        var  CheckInputValue = $(this).attr('name');
+   
+        if(CheckInputValue === '1-year-ins'){
+            var Customwarranty_id = $('.product-warranty-year:nth-child(1) .select-warranty-year').attr('value')
+            var Customwarranty_price = $('.product-warranty-year:nth-child(1) .select-warranty-year').attr('data-price')
+            var Customwarranty_title = $('.product-warranty-year:nth-child(1) .select-warranty-year').attr('data-label');
+            $('#selected_warranty_id').val(Customwarranty_id)
+            $('#selected_warranty_price').val(Customwarranty_price)
+            $('#selected_warranty_title').val(Customwarranty_title)
+            $('#selected_warranty_final_price').val(Customwarranty_price)
+        }else{
+            var Customwarranty_id = $('.product-warranty-year:nth-child(2) .select-warranty-year').attr('value')
+            var Customwarranty_price = $('.product-warranty-year:nth-child(2) .select-warranty-year').attr('data-price')
+            var Customwarranty_title = $('.product-warranty-year:nth-child(2) .select-warranty-year').attr('data-label');
+            $('#selected_warranty_id').val(Customwarranty_id)
+            $('#selected_warranty_price').val(Customwarranty_price)
+            $('#selected_warranty_title').val(Customwarranty_title)
+           // $('#selected_warranty_final_price').val(Customwarranty_price)
+        }
+
+       }
+       
+     })
+
+     $(document).on('click', '.bt-remove span.add-ins',function(){
+            $('#selected_warranty_id').val('')
+            $('#selected_warranty_price').val('')
+            $('#selected_warranty_title').val('')
+            $('#selected_warranty_final_price').val('')
+            $('.bt-remove').hide();
+            $('.bt-add').show();
+            $('.insurance-design-two').hide()
+            //localStorage.removeItem("Insurance_price");
+     })
+    
+
+}, 3000);
+$(document).on('click','.product-info-main .product-information, .product-info-main .product-info-cart .box-tocart .fieldset .qty .control .items-qty', function(){
+    console.log('hi')
+    setTimeout(function(){
+        var InputArray = []
+        $('.select-warranty-year').each(function(index, value){
+        var Insu_price = $(value).attr('data-final-price');
+        return InputArray.push(Insu_price)   
+        });
+        $('.price-ins').text('$'+ InputArray[0]);
+        $('.insurance-design-two ul li:first-child label span,  ul.Choose-plan li:first-child span:last-child').text('$'+ InputArray[0]);
+        //$('.insurance-design-two ul li:last-child label span, ul.Choose-plan li:last-child span:last-child').text('$'+ InputArray[1]);
+    }, 2500)
+});
+$(document).on('click', '.insurance-design-one p a', function(){
+    $('a#warranty_info_popup').click()
+});
+$('a.f-next').on('click', function(){
+    var GetIdAttr = $(this).parents('.common-sec ').attr('id')
+    var GetDivVisible = $('#'+GetIdAttr).is(":visible");
+    //console.log(GetDivVisible, GetIdAttr,'GetIdAttr')
+        if (GetDivVisible == true) {
+            $('#'+GetIdAttr).hide();
+            $('#'+GetIdAttr).next('.common-sec').show()
+        }
+})
+$('a.f-previous').on('click', function(){
+    var GetIdAttr = $(this).parents('.common-sec ').attr('id')
+    var GetDivVisible = $('#'+GetIdAttr).is(":visible");
+    //console.log(GetDivVisible, GetIdAttr,'GetIdAttr')
+        if (GetDivVisible == true) {
+            $('#'+GetIdAttr).hide();
+            $('#'+GetIdAttr).prev('.common-sec').show()
+        }
+})
+$('span.pop-back').on('click',function(){
+    $('.product.media').appendTo('.new-pdp-gallery');
+    $('.newpdp-popup').fadeOut()
+    $('html').css('overflow-y', 'auto')
+});
+$(document).on('click','.top-customize-now a, .newpdp-cust a', function(){
+    $('.newpdp-popup').fadeIn()
+     $('.product.media').appendTo('.newpdp-popup-gallery');
+     $('html').css('overflow-y', 'hidden')
+})
+// $('.custom_addcart').on('click',function(){
+//     $('button#product-addtocart-button').click()
+// })
+$('#product-addtocart-button').appendTo('.custom_addcart')
+$('button#product-addtocart-button').on('click', function(){
+    $('.page-header .header-bottom').css({
+        'z-index':9999999,
+        'position':'relative'
+        })
+})
+$('button#product-addtocart-button').on('click', function(){
+    $('.page-header .header-bottom.header-sticky').css({
+        'z-index':9999999,
+        'position':'fixed'
+        })
+})
+$(document).on('click', '.page-header .header-bottom .minicart-wrapper .mage-dropdown-dialog .block-minicart .action.close',function(){
+     $('.page-header .header-bottom').css({
+         'z-index':9,
+    }) 
+})
+// if(document.querySelector('.page-header .header-bottom .minicart-wrapper .mage-dropdown-dialog .block-minicart .action.close') != null){
+//    document.querySelector('.page-header .header-bottom .minicart-wrapper .mage-dropdown-dialog .block-minicart .action.close').addEventListener('click',function () {
+//       $('.page-header .header-bottom').css({
+//         'z-index':9,
+// })  
+// }) 
+// }
+
+// setTimeout(function(){
+// var FormData = $('.product-add-form #product_addtocart_form').attr('data-product-sku')
+// var FormDataAction = $('.product-add-form #product_addtocart_form').attr('action')
+// console.log(FormData, FormDataAction,'FormDataAction')
+// $('.inner-newpdp-popup form').attr('data-product-sku', FormData)
+// $('.inner-newpdp-popup form').attr('action', FormDataAction);
+// $('form+ [name="product"]').prependTo('.inner-newpdp-popup form')
+// $('#product_id').prependTo('.inner-newpdp-popup form')
+// $('[name="selected_configurable_option"]').prependTo('.inner-newpdp-popup form')
+// $('#related-products-field').prependTo('.inner-newpdp-popup form')
+// $('#quote_item_id').prependTo('.inner-newpdp-popup form')
+// $('[name="queryID"]').prependTo('.inner-newpdp-popup form')
+// $('#edit_item_flag').prependTo('.inner-newpdp-popup form')
+// $('#solidwork_pdf_type').prependTo('.inner-newpdp-popup form')
+// $('#data_label_tax').prependTo('.inner-newpdp-popup form')
+// $('#data_label_inc_tax').prependTo('.inner-newpdp-popup form')
+// $('[name="form_key"]').prependTo('.inner-newpdp-popup form');
+// $('.product-add-form #product_addtocart_form').attr('id','product_addtocart_form1')
+// }, 7000)
+
+
+}
+		clearInterval(window.vwoInterval1729583887348);
+	}
+}, 1000);
