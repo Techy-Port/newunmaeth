@@ -1,3 +1,4 @@
+<script>
 /* CUSTOM CODE */
 //Avoid multiple setIntervals getting started.
 if (window.vwoInterval1729583887348) {
@@ -541,3 +542,4 @@ $(document).on('click', '.page-header .header-bottom .minicart-wrapper .mage-dro
 		clearInterval(window.vwoInterval1729583887348);
 	}
 }, 1000);
+</script>
